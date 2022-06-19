@@ -2,7 +2,7 @@
 
 <p>
   🎓 I am majoring in Media & Communication and studying computer science as a double major.<br>
-  📺 I love watching animations! ➡️ Disney / Pixar / STUDIO GHIBLI <br>
+  📺 I love watching animations!<br>
   🎸 I love Bass.<br>
   🔻 I am based in Incheon, South Korea.
 </p>

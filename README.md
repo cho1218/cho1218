@@ -1,7 +1,7 @@
 ### Hi I'm EunJu ✨
 
 <p>
-  🎓 I am majoring in Media & Communication and studying computer science as a double major.<br>
+  🎓 I am studying Media & Communication and computer science as a double major.<br>
   📺 I love watching animations!<br>
   🎸 I love Bass.<br>
   🔻 I am based in Incheon, South Korea.
